@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Trieu</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🔭 I’m currently working on **FPT University**
+- 🔭 I’m currently working at **FPT University**
 
 - 📫 How to reach me **https://www.facebook.com/trandtrieu2002/**
 
